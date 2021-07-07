@@ -235,7 +235,7 @@ margin-top: 19px;
   .navbar{
     flex-direction: column;
     transition: all 0.7s ease-out;
-    height: 478px;
+    height: 200px;
   }
   .rightNav{
     text-align: center;
